@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646679860129",
+    "project_id": "nekoboyapp",
+    "storage_bucket": "nekoboyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646679860129:android:d16beedfbfdcb80921f1e0",
+        "android_client_info": {
+          "package_name": "com.example.tas_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE2RNcPzrYB29GKUwOkRLLrzRBgPm6YD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
