@@ -1,22 +1,29 @@
-# 💼 Job Apply Application  
+# 📖 Nekoboy - Manga Reader App  
 
-A simple web application that allows users to apply for jobs online. Built with **HTML**, **CSS**, and **JavaScript**, and powered by **Firebase** for database and cloud functionality.  
+**Nekoboy** is a sleek and modern manga reading app built with **Flutter**. The app allows users to explore, read, and save their favorite manga with an intuitive and user-friendly interface.  
 
 ---
 
 ## 🚀 Features  
-- **Job Application Form**: Users can submit their details and upload resumes.  
-- **Firebase Integration**:  
-  - Real-time database for storing user data securely.  
-  - Firebase Authentication for user login and registration (optional).  
-- **Responsive Design**: Accessible on desktops, tablets, and mobile devices.  
+- **Manga Library**: Browse a wide collection of manga titles.  
+- **Search Functionality**: Easily find your favorite manga.  
+- **Reading Experience**: Smooth and responsive manga reader with zoom and scroll capabilities.  
+- **Favorites**: Save manga to your personal favorites list for quick access.  
+- **Offline Reading**: Download chapters and read them offline.  
 
 ---
 
 ## 🛠️ Technologies Used  
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Firebase Realtime Database  
-- **Cloud Storage**: Firebase Cloud Storage for file uploads  
+- **Flutter**: Cross-platform framework for building the app.  
+- **Firebase**: Backend services for user authentication, database, and cloud storage.  
+- **API Integration**: Fetch manga data from a third-party API (e.g., MangaDex API or custom backend).  
 
 ---
+
+## 📦 Installation  
+
+### Prerequisites  
+- Install [Flutter SDK](https://flutter.dev/docs/get-started/install).  
+- Set up an editor (e.g., Android Studio, VS Code).  
+
 
