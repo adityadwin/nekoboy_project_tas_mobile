@@ -1,16 +1,22 @@
-# tas_mobile
+# 💼 Job Apply Application  
 
-A new Flutter project.
+A simple web application that allows users to apply for jobs online. Built with **HTML**, **CSS**, and **JavaScript**, and powered by **Firebase** for database and cloud functionality.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features  
+- **Job Application Form**: Users can submit their details and upload resumes.  
+- **Firebase Integration**:  
+  - Real-time database for storing user data securely.  
+  - Firebase Authentication for user login and registration (optional).  
+- **Responsive Design**: Accessible on desktops, tablets, and mobile devices.  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: Firebase Realtime Database  
+- **Cloud Storage**: Firebase Cloud Storage for file uploads  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
